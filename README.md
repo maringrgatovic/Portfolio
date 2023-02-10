@@ -1,2 +1,2 @@
 # Portfolio ⚡️
-## LINK: https://ubiquitous-speculoos-cfc7d4.netlify.app/#!
+## LINK: https://ubiquitous-speculoos-cfc7d4.netlify.app/#
